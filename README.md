@@ -1,6 +1,4 @@
 # Software Engineering Methods
-
-- # Software Engineering Methods
   
   - Master Build Status [![Build Status](https://travis-ci.org/g-nimmo/sem.svg?branch=master)](https://travis-ci.org/g-nimmo/sem)
   - Develop Build Status [![Build Status](https://travis-ci.org/g-nimmo/sem.svg?branch=develop)](https://travis-ci.org/g-nimmo/sem)
